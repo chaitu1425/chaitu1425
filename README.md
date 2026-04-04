@@ -79,7 +79,7 @@ open_to:    Collaborations · Open Source · Freelance
 ![Claude](https://img.shields.io/badge/Claude-D85A30?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-27500A?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-185FA5?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-444441?style=for-the-badge&logo=cursor&logoColor=white)
+![AntiGravity](https://img.shields.io/badge/Antigravity-444441?style=for-the-badge&logo=rocket&logoColor=white)
 
 ---
 
