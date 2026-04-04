@@ -177,7 +177,7 @@ open_to:    Collaborations · Open Source · Freelance
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+*"If I had more time, I would have written a shorter letter." – Blaise Pascal*
 
 ⭐ Star my repos if you find them useful!
 
