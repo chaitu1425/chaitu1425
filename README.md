@@ -19,7 +19,6 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-username:   chaitu1425
 stack:      HTML · CSS · JavaScript · Tailwind CSS (Frontend)
             Node.js · Express.js · PHP (Backend)
             C · C++ · Java · Python · C# (Languages)
